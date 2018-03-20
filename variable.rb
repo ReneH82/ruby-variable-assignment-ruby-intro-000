@@ -1,2 +1,2 @@
- gretting
  greeting = "Hello World"
+ greeting
